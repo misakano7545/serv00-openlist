@@ -59,7 +59,7 @@
    - 执行以下命令：
    
      ```bash
-     bash <(curl -s https://raw.githubusercontent.com/jinnan11/serv00-alist/main/install_alist.sh)
+     bash <(curl -s https://raw.githubusercontent.com/misakano7545/serv00-openlist/main/install_openlist.sh)
      ```
 
       ![image](https://github.com/user-attachments/assets/8055b6f4-62eb-40d1-9ad1-e4458840a7e6)
